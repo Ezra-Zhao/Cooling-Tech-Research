@@ -16,6 +16,7 @@ Data center cooling and condensation technology, one study note a week, explaine
 
 | 周 | 题目 | 一句话 |
 |---|---|---|
+| 2026-10-20 | GB300 级机柜的液冷基本盘：冷板 + CDU，运维到底在运什么 | 120 kW 量级靠冷板带走约七八成热量、CDU 隔离两侧水路；运维真正的功夫在水质、流量平衡、漏液检测和每柜 ΔT 监控。 |
 
 ## 声明
 
